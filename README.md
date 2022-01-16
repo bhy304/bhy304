@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 300px" />
-</div>
+</div> -->
 
 ### 👋🏻 Hi, there! I'm Hayeon Baek! 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:bhy0512@gmail.com)](mailto:snugyun01@gmail.com)
