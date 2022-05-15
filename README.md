@@ -2,7 +2,7 @@
 
 
 ### 👋🏻 Hi, there! I'm Hayeon Baek!
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:bhy0512@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&style=flat&link=mailto:bhy0512@gmail.com)](mailto:bhy0512@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&style=flat&link=https://www.linkedin.com/in/hayeonbaek/)](https://www.linkedin.com/in/hayeonbaek/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&style=flat&link=https://github.com/bhy304)](https://github.com/bhy304)
 
