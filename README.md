@@ -11,15 +11,17 @@
 <!-- [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza) -->
 
 ### 💻 Tech Skills
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat"/> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-Scss-CC6699?logo=sass&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=flat"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"&style=flat"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"&style=flat"/>
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat"/>  
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/-Scss-CC6699?logo=sass&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white&style=flat"/>
+</p>
 
 ### 🖤 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhy304)](https://github.com/anuraghazra/github-readme-stats)
