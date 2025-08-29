@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Scss-CC6699?logo=sass&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white&style=flat"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white&style=flat"/>
 </p>
 
 ### 🖤 GitHub Stats
